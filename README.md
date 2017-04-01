@@ -82,12 +82,12 @@ mysql 的 utf8编码的一个字符最多3个字节，但是一个emoji表情为
 
 - 存入表情
 
-[插入表情](./image/a.png)
+![插入表情](./image/a.png)
 
 - 数据库存储记录
 
-[数据库存储格式](./image/b.png)
+![数据库存储格式](./image/b.png)
 
 - 查询该记录
 
-[查询出的数据](./image/c.png)
+![查询出的数据](./image/c.png)
